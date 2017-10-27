@@ -1,110 +1,113 @@
-.lien-haut{
+.lien-haut {
     margin-left: 520px;
 }
 
-.discover{
+.discover {
     position: absolute;
     margin-left: 450px;
     bottom: 325px;
     font-family: Aleo;
-	font-size: 60px;
-	font-weight: bold;
-	text-align: center;
-	color: black;
-    
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
 }
-.img-responsive{
-    
+
+.img-responsive {
     width: 1440px;
     height: 576px;
 }
 
 .latest-news {
     margin-top: 30px;
-	font-family: Aleo;
-	font-size: 40px;
-	font-weight: bold;
-	color: #000000;
+    font-family: Aleo;
+    font-size: 40px;
+    font-weight: bold;
+    color: #000000;
 }
 
-
-.test
-{
-   display: inline-block;
-   margin-left: 15px;
-   margin-right: 15px;
+.test {
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
-[class*="col"] { 
-    margin-bottom: 20px; 
-}
- 
-img { 
-    width: 100%; 
+[class*="col"] {
+    margin-bottom: 20px;
 }
 
-.titre{
-
-	font-family: Aleo;
-	font-size: 30px;
-	font-weight: bold;
-	line-height: 1.33;
-	text-align: left;
-	color: #000000; 
+img {
+    width: 100%;
 }
 
-class="descritpion"{
-	font-family: Roboto;
-	font-size: 16px;
-	line-height: 1.5;
-	text-align: left;
-	color: #000000;
+.titre {
+    font-family: Aleo;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.33;
+    text-align: left;
+    color: #000000;
 }
 
-.coeur{
+class="descritpion" {
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: left;
+    color: #000000;
+}
+
+.coeur {
     width: 24px;
-	height: 24px;
-	object-fit: contain;
+    height: 24px;
     color: deepskyblue;
+    
 }
 
-.likes{
-    
+.likes {
     width: 59px;
-	height: 20px;
-	font-family: Roboto;
-	font-size: 17px;
-	font-weight: 500;
-	text-align: left;
-	color: rgba(0, 0, 0, 0.4);
+    height: 20px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.4);
 }
-#rectangle{
+
+#rectangle {
     width: 1090px;
-	height: 60px;
+    height: 60px;
     margin-left: 160px;
     margin-bottom: 5px;
-	border: solid 1px #000000;
+    border: solid 1px #000000;
 }
 
 .load-more {
     margin-top: 10px;
     margin-bottom: 5px;
     text-align: center;
-	font-family: Aleo;
-	font-size: 20px;
-	font-weight: bold;
-	line-height: 2.0;
-	letter-spacing: 2.4px;
-	text-align: center;
-	color: #000000;
+    font-family: Aleo;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 2.0;
+    letter-spacing: 2.4px;
+    text-align: center;
+    color: #000000;
 }
 
-.nav-bas{
+.nav-bas {
     margin-top: 50px;
     height: 60px;
     background-color: white;
 }
 
-.lien-bas{
+.lien-bas {
     margin-top: 5px;
+}
+
+
+/*Page inscription*/
+
+center {
+    margin-right: 200px;
 }
